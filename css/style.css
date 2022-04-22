@@ -1,0 +1,16 @@
+/* Created by: Katie
+* Created on: April 2022
+* This CSS file defines the style for index.php
+* ICS2O-Unit3-03-PHP-VolumeSphere
+*/
+
+body {
+  background-color: mediumaquamarine;
+}
+
+h1 {
+  background-color: darkslategray;
+  color: lightsalmon;
+  padding: 6px;
+  border: 2px double lightsalmon;
+}
